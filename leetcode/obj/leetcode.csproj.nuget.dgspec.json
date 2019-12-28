@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vsonline/workspace/leetcode/leetcode.csproj": {}
+  },
+  "projects": {
+    "/home/vsonline/workspace/leetcode/leetcode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vsonline/workspace/leetcode/leetcode.csproj",
+        "projectName": "leetcode",
+        "projectPath": "/home/vsonline/workspace/leetcode/leetcode.csproj",
+        "packagesPath": "/var/nuget",
+        "outputPath": "/home/vsonline/workspace/leetcode/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vsonline/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdks/3.0.100/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
