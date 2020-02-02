@@ -1,0 +1,3 @@
+D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.csprojAssemblyReference.cache
+D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.AssemblyInfoInputs.cache
+D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.1\hackerrank.AssemblyInfo.cs

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\github\\cp_practise\\leetcode\\leetcode.csproj": {}
+    "D:\\repos\\github\\cp_practise\\hackerrank\\hackerrank.csproj": {}
   },
   "projects": {
-    "D:\\repos\\github\\cp_practise\\leetcode\\leetcode.csproj": {
+    "D:\\repos\\github\\cp_practise\\hackerrank\\hackerrank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\github\\cp_practise\\leetcode\\leetcode.csproj",
-        "projectName": "leetcode",
-        "projectPath": "D:\\repos\\github\\cp_practise\\leetcode\\leetcode.csproj",
+        "projectUniqueName": "D:\\repos\\github\\cp_practise\\hackerrank\\hackerrank.csproj",
+        "projectName": "hackerrank",
+        "projectPath": "D:\\repos\\github\\cp_practise\\hackerrank\\hackerrank.csproj",
         "packagesPath": "C:\\Users\\vazas\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\github\\cp_practise\\leetcode\\obj\\",
+        "outputPath": "D:\\repos\\github\\cp_practise\\hackerrank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vazas\\AppData\\Roaming\\NuGet\\NuGet.Config",
