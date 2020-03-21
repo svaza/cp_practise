@@ -1,8 +1,0 @@
-D:\repos\github\cp_practise\hackerrank\bin\Debug\netcoreapp3.0\hackerrank.deps.json
-D:\repos\github\cp_practise\hackerrank\bin\Debug\netcoreapp3.0\hackerrank.dll
-D:\repos\github\cp_practise\hackerrank\bin\Debug\netcoreapp3.0\hackerrank.pdb
-D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.0\hackerrank.csprojAssemblyReference.cache
-D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.0\hackerrank.AssemblyInfoInputs.cache
-D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.0\hackerrank.AssemblyInfo.cs
-D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.0\hackerrank.dll
-D:\repos\github\cp_practise\hackerrank\obj\Debug\netcoreapp3.0\hackerrank.pdb

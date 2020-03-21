@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace hackerrank
+namespace practise
 {
     class Program
     {

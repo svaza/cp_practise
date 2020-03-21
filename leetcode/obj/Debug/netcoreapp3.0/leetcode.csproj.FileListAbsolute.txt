@@ -1,8 +1,0 @@
-D:\repos\github\cp_practise\leetcode\obj\Debug\netcoreapp3.0\leetcode.csprojAssemblyReference.cache
-D:\repos\github\cp_practise\leetcode\obj\Debug\netcoreapp3.0\leetcode.AssemblyInfoInputs.cache
-D:\repos\github\cp_practise\leetcode\obj\Debug\netcoreapp3.0\leetcode.AssemblyInfo.cs
-D:\repos\github\cp_practise\leetcode\bin\Debug\netcoreapp3.0\leetcode.deps.json
-D:\repos\github\cp_practise\leetcode\bin\Debug\netcoreapp3.0\leetcode.dll
-D:\repos\github\cp_practise\leetcode\bin\Debug\netcoreapp3.0\leetcode.pdb
-D:\repos\github\cp_practise\leetcode\obj\Debug\netcoreapp3.0\leetcode.dll
-D:\repos\github\cp_practise\leetcode\obj\Debug\netcoreapp3.0\leetcode.pdb
