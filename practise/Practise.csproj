@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Practise.Spoj.ONP</StartupObject>
+    <StartupObject>Practise.Spoj.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
