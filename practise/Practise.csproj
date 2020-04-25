@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Practise.Spoj.Program</StartupObject>
+    <StartupObject>Practise.Techgig.CodeGladiators.OpenCodingRound.Problem1</StartupObject>
   </PropertyGroup>
 
 </Project>
